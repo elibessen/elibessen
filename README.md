@@ -40,4 +40,6 @@ I am currently working on:
 - [My Portfolio](https://cordial.ambience.studio) | [Source Code](https://github.com/LCordial/my-portfolio)
 - [Tanks](https://tanks.ambience.studio) | [Source Code](https://github.com/LCordial/tanks-arena)
 - [Unity Parkour Game Template](https://github.com/LCordial/parkour-game-template)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCordial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
