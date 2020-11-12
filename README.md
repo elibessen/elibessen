@@ -8,23 +8,32 @@ I am a beginner backend and frontend Software Engineer, wanting to become better
 
 Using different technologies makes programming a whole lot better, and easier. That's why I use them.
 
-- Firebase
-- Nextjs
+<p>
+   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+   <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+</p>
 
 ## 💬 Languages:
 
 I like to code things from scratch. Bringing an idea to life on the computer.
 
-- Javascript
-- c#
-- Python
-- CSS
+<p>
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-CSharp-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
 
 ## 🔨 Developer Tools
-- Visual Studio Code
-- Visual Studio
-- Github
-- Terminal
+
+<p>
+  <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VisualStudio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
 
 ## 📱 Ambience Studios:
 
@@ -32,7 +41,11 @@ I program with a group named Ambience Studios. Which allows me to share ideas wi
 
 
 ##### Find us on:
-- Github
+<p>
+  <a  href="https://github.com/Ambience-Studios">
+    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
+   </a>
+</p>
 
 
 ## Projects 🧰
