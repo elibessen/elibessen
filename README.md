@@ -2,7 +2,7 @@
 
 I am a beginner backend and frontend Software Engineer, wanting to become better everyday. Specializing in Web development and Game Development. Using languages like Javascript, C#, HTML and CSS.
 
-### 🖥️ Technologies:
+## 🖥️ Technologies:
 
 Using different technologies makes programming a whole lot better, and easier. That's why I use them.
 
@@ -12,7 +12,7 @@ Using different technologies makes programming a whole lot better, and easier. T
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 </p>
 
-### 💬 Languages:
+## 💬 Languages:
 
 I like to code things from scratch. Bringing an idea to life on the computer.
 
@@ -23,7 +23,7 @@ I like to code things from scratch. Bringing an idea to life on the computer.
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### 🔨 Developer Tools
+## 🔨 Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -33,7 +33,7 @@ I like to code things from scratch. Bringing an idea to life on the computer.
 </p>
 
 
-### 📱 Ambience Studios:
+## 📱 Ambience Studios:
 
 I program with a group named Ambience Studios. Which allows me to share ideas with other people!
 
