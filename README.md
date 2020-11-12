@@ -2,9 +2,12 @@
 
 I am a beginner backend and frontend Software Engineer, wanting to become better everyday. Specializing in Web development and Game Development. Using languages like Javascript, C#, HTML and CSS.
 
-[![LCordial github stats](https://github-readme-stats.vercel.app/api?username=LCordial&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🖥️ Technologies:
+## Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCordial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🖥️ Technologies:
 
 Using different technologies makes programming a whole lot better, and easier. That's why I use them.
 
@@ -14,7 +17,7 @@ Using different technologies makes programming a whole lot better, and easier. T
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 </p>
 
-## 💬 Languages:
+### 💬 Languages:
 
 I like to code things from scratch. Bringing an idea to life on the computer.
 
@@ -25,7 +28,7 @@ I like to code things from scratch. Bringing an idea to life on the computer.
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-## 🔨 Developer Tools
+### 🔨 Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
@@ -35,7 +38,7 @@ I like to code things from scratch. Bringing an idea to life on the computer.
 </p>
 
 
-## 📱 Ambience Studios:
+### 📱 Ambience Studios:
 
 I program with a group named Ambience Studios. Which allows me to share ideas with other people!
 
@@ -48,13 +51,10 @@ I program with a group named Ambience Studios. Which allows me to share ideas wi
 </p>
 
 
-## Projects 🧰
+### Projects 🧰
 I am currently working on:
 - [My Portfolio](https://cordial.ambience.studio) | [Source Code](https://github.com/LCordial/my-portfolio)
 - [Tanks](https://tanks.ambience.studio) | [Source Code](https://github.com/LCordial/tanks-arena)
 - [Unity Parkour Game Template](https://github.com/LCordial/parkour-game-template)
 
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCordial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
