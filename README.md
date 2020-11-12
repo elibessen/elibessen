@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 I am a beginner backend and frontend Software Engineer, wanting to become better everyday. Specializing in Web development and Game Development. Using languages like Javascript, C#, HTML and CSS.
 
