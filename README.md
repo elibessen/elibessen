@@ -23,7 +23,6 @@
 I am an Australian *almost* full stack programmer. Specializing in Web development and Game Development.
 
 
-## Technologies:
 
 <p>
    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
@@ -31,7 +30,6 @@ I am an Australian *almost* full stack programmer. Specializing in Web developme
   <img src="https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white" />
 </p>
 
-## Languages:
 
 <p>
   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -40,7 +38,6 @@ I am an Australian *almost* full stack programmer. Specializing in Web developme
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-## Developer Tools
 
 <p>
   <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
