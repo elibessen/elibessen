@@ -10,8 +10,11 @@
    <a href="https://www.twitch.tv/cordialtwitch">
       <img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/>
    </a>
-   <a href="mailto:ebessen@internode.on.net">
+    <a href="mailto:ebessen@internode.on.net">
       <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+   </a>
+   <a href="https://discord.gg/7VUvVsp">
+      <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
    </a>
 </p>
 
