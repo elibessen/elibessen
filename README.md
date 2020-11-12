@@ -16,6 +16,8 @@
    </a>
 </p>
 
+> LCordial
+
 Hey, im Eli and I'm an Australian full stack programmer. Specializing in Web development and Game Development.
 
 ## Specialties
