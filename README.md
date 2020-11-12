@@ -22,7 +22,7 @@
 
 I am an Australian *almost* full stack programmer. Specializing in Web development and Game Development.
 
-
+## Specialties
 
 <p>
    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
