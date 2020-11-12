@@ -2,11 +2,6 @@
 
 I am a beginner backend and frontend Software Engineer, wanting to become better everyday. Specializing in Web development and Game Development. Using languages like Javascript, C#, HTML and CSS.
 
-
-## Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCordial&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🖥️ Technologies:
 
 Using different technologies makes programming a whole lot better, and easier. That's why I use them.
