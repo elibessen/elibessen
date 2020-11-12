@@ -18,7 +18,7 @@
 
 > LCordial
 
-Hey, im Eli and I'm an Australian full stack programmer. Specializing in Web development and Game Development.
+Hey, im Eli and I'm an Australian full stack programmer *mostly front end though ;)*. Specializing in Web development and Game Development.
 
 ## Specialties
 
