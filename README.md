@@ -1,6 +1,24 @@
 # Hi there 👋
 
-I am a beginner backend and frontend Software Engineer, wanting to become better everyday. Specializing in Web development and Game Development. Using languages like Javascript, C#, HTML and CSS.
+<p>
+   <a href="https://www.youtube.com/channel/UCNCLfAQwOSe1HmPmPWX3sJA">
+      <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=youtube&logoColor=white" /> 
+   </a>
+   <a href="https://twitter.com/LCordial_">
+      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
+   </a>
+   <a href="https://www.twitch.tv/cordialtwitch">
+      <img src="https://img.shields.io/badge/-Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/>
+   </a>
+   <a href="mailto:ebessen@internode.on.net">
+      <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+   </a>
+</p>
+
+> I am a beginner backend and frontend Software Engineer, wanting to become better everyday. 
+
+I am an Australian *almost* full stack programmer. Specializing in Web development and Game Development.
+
 
 ### 🖥️ Technologies:
 
@@ -52,4 +70,6 @@ I am currently working on:
 - [Tanks](https://tanks.ambience.studio) | [Source Code](https://github.com/LCordial/tanks-arena)
 - [Unity Parkour Game Template](https://github.com/LCordial/parkour-game-template)
 
-  
+
+
+###### Find more on my [website](https://cordial.ambience.studio/)
