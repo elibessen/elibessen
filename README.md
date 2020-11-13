@@ -18,7 +18,7 @@
 
 > LCordial
 
-Hey, im Eli and I'm an Australian full stack programmer *mostly front end though ;)*. Specializing in Web development and Game Development.
+Hey, i'm Eli and i'm an Australian full stack software engineer *mostly front end ;)*. I specialise in web and game development.
 
 ## Specialties
 
@@ -39,11 +39,11 @@ Hey, im Eli and I'm an Australian full stack programmer *mostly front end though
 </p>
 
 
-## Ambience Studios:
+## Ambience Studios
 
-I program with a group named Ambience Studios. Which allows me to share ideas with other people!
+I program with a group named Ambience Studios. This allows me to engage with others, and share new and innovative ideas!
 
-##### Find us on:
+##### Find us on
 <p>
   <a  href="https://github.com/Ambience-Studios">
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
@@ -52,7 +52,6 @@ I program with a group named Ambience Studios. Which allows me to share ideas wi
 
 
 #### Projects 🧰
-I am currently working on:
 - [My Portfolio](https://cordial.ambience.studio) | [Source Code](https://github.com/LCordial/my-portfolio)
 - [Tanks](https://tanks.ambience.studio) | [Source Code](https://github.com/LCordial/tanks-arena)
 - [Unity Parkour Game Template](https://github.com/LCordial/parkour-game-template)
@@ -60,3 +59,4 @@ I am currently working on:
 
 
 ###### Find more on my [website](https://cordial.ambience.studio/)
+###### <sub>I prefer they, them theirs</sub>
