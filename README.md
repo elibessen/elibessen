@@ -18,7 +18,7 @@
 
 > LCordial
 
-Hey, i'm Eli and i'm an Australian full stack software engineer *mostly front end ;)*. I specialise in web and game development.
+Hey, I'm Eli and I'm an Australian full stack software engineer *mostly front end ;)*. I specialise in web and game development.
 
 ## Specialties
 
