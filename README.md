@@ -36,7 +36,11 @@ Hey, I'm Eli and I'm an Australian full stack software engineer *mostly front en
   <img src="https://img.shields.io/badge/-Visual Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+ 
 </p>
+
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCordial&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Ambience Studios
