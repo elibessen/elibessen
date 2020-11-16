@@ -63,4 +63,3 @@ I program with a group named Ambience Studios. This allows me to engage with oth
 
 
 ###### Find more on my [website](https://cordial.ambience.studio/)
-###### <sub>;)</sub>
