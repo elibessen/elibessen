@@ -39,13 +39,7 @@ Hey, I'm Eli and I'm an Australian front-end software engineer. I specialise in 
  
 </p>
 
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LCordial&layout=compact&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## Ambience Studios
-
-I program with a group named Ambience Studios. This allows me to engage with others, and share new and innovative ideas!
 
 ##### Find us on
 <p>
@@ -53,13 +47,3 @@ I program with a group named Ambience Studios. This allows me to engage with oth
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
    </a>
 </p>
-
-
-#### Projects 🧰
-- [My Portfolio](https://cordial.ambience.studio) | [Source Code](https://github.com/LCordial/my-portfolio)
-- [Tanks](https://tanks.ambience.studio) | [Source Code](https://github.com/LCordial/tanks-arena)
-- [Unity Parkour Game Template](https://github.com/LCordial/parkour-game-template)
-
-
-
-###### Find more on my [website](https://cordial.ambience.studio/)
