@@ -42,12 +42,3 @@ Hey, I'm Eli and I'm an Australian front-end software engineer. I specialise in 
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   
 </p>
-
-## Ambience Studios
-
-##### Find us on
-<p>
-  <a  href="https://github.com/Ambience-Studios">
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white" />
-   </a>
-</p>
