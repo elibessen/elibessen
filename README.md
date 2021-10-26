@@ -6,9 +6,6 @@
 
 > LCordial
 
-Hey, I'm Eli and I'm an Australian front-end software engineer. I specialise in web development. 
-
-I love using javascript and scss to create simple web based applications.
-
+I'm an Australian front-end web developer and designer, dabbling in back-end and game development occasionally. I specialise in web development. Using languages like Javascript, C#, and SCSS.
 
 ###### Visit my website: https://cordial.ambience.studio/
