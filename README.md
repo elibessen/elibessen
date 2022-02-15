@@ -39,7 +39,6 @@ I'm an Australian front-end web developer and designer, dabbling in back-end and
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ambience-Studios&repo=ambience.css"></img>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ambience-Studios&repo=ambience.mbm"></img>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=LCordial&repo=parkour-game-template"></img>
 </p>
 
