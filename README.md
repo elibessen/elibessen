@@ -1,6 +1,6 @@
 I'm an Australian front-end web developer and designer, dabbling in back-end and game development occasionally.
 
-I'm currently studying a Bachelor of Engineering (Electrical and Electronic) with a Bachelor of Mathematical and Computer Science.
+I'm currently studying a Bachelor of Computer Science.
 
 I'm not really working on anything at the moment.
 
